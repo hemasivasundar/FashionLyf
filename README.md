@@ -30,7 +30,7 @@ s
    
 
 
-![Screenshot_20221026_120100](https://user-images.githubusercontent.com/111066064/197854193-4f584255-979a-446d-bf33-5f293a6a8227.png)
+
 
 
 
